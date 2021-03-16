@@ -1,2 +1,2 @@
 Hello There 
-This is basic tutorial learning
+This is new git tutorial learning
