@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: black;
+}
+p {
+	
+	font-family:Arial;
+	font-weight:normal;
+	text-align: center;
+}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 100%;
+}   margin-top: 50px;
